@@ -1,0 +1,89 @@
+DUAL LICENSING MODEL FOR VISIONGUIDE
+------------------------------------
+
+VisionGuide is distributed under a dual licensing model:
+
+1. Open-Source License (AGPL-3.0-or-later)
+2. Commercial License for official distributions and proprietary use
+
+
+------------------------------------
+1. OPEN-SOURCE LICENSE (AGPL-3.0)
+------------------------------------
+
+The source code of VisionGuide is released under the
+GNU Affero General Public License, version 3 or later (AGPL-3.0-or-later).
+
+Users are allowed to:
+- Download the source code
+- Modify it
+- Compile it for personal experimentation
+- Distribute modified versions under AGPL-3.0 compliance
+
+HOWEVER:
+
+Compiling the VisionGuide source code **does NOT grant access** to:
+- the official VisionGuide mobile or desktop applications
+- the VisionGuide backend servers
+- cloud inference services
+- premium perception models
+- the hybrid navigation engine
+- updates and security patches
+- API keys or hosted services
+- the VisionGuide subscription platform
+- any proprietary components or datasets
+
+All server-side infrastructure, premium features, and official
+binary distributions remain proprietary and require a subscription.
+Self-hosting of backend components is prohibited unless explicitly licensed.
+
+
+------------------------------------------------------------
+2. COMMERCIAL LICENSE (OFFICIAL DISTRIBUTIONS AND SERVICES)
+------------------------------------------------------------
+
+The official VisionGuide app (iOS, Android, desktop, firmware or any binary
+distribution provided by the author) is a commercial product.
+
+Its use requires:
+- 7-day free trial
+- then an active subscription (monthly, quarterly, semi-annual or annual)
+
+This subscription requirement applies to ALL users, except where the app is
+provided free through:
+- governmental accessibility programs
+- institutional agreements
+- approved subsidy programs
+
+The commercial license grants:
+- legal use of the official app
+- access to backend services
+- access to cloud inference and advanced models
+- updates and premium features
+- support and priority fixes
+
+Organizations, companies, governments, OEMs and device manufacturers
+MUST acquire a commercial agreement for any use of VisionGuide
+beyond personal evaluation.
+
+
+------------------------------------
+3. SUMMARY
+------------------------------------
+
+AGPL-3.0 covers only the source code.
+
+The official VisionGuide distributed application, backend infrastructure,
+and cloud services are proprietary and require paid subscription.
+
+Compiling the source code does not provide access to:
+- the official servers
+- the subscription system
+- VisionGuide’s proprietary features
+- models hosted by VisionGuide
+- government-grade navigation features
+- cross-device functionality
+- premium perception pipelines
+
+For commercial use, please contact:
+agustialejandro@gmail.com
