@@ -1,0 +1,6 @@
+PROPRIETARY BACKEND – NOTICE
+
+The VisionGuide backend, hosted models, endpoints, and cloud services are
+commercial products and are **not** covered by AGPL. Usage requires a subscription
+or a commercial license. Self-hosting of backend components is prohibited unless
+explicitly licensed.

@@ -1,0 +1,10 @@
+{
+  "version": "0.1.0",
+  "models": [
+    {
+      "name": "detector_stub",
+      "type": "object-detection",
+      "status": "placeholder"
+    }
+  ]
+}

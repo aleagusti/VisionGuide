@@ -1,0 +1,12 @@
+# Example config for VisionGuide
+app:
+  mode: "demo"
+  language: "en-US"
+perception:
+  enabled: true
+  backend: "local"
+  thresholds:
+    obstacle_alert: 0.6
+audio:
+  tts: "system"
+  spatial_audio: false
